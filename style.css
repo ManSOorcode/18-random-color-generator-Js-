@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+
+	box-sizing: border-box;
+	font-size: 2rem;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	max-width: 100%;
+	min-height: 100vh;
+}
+button {
+	height: 100px;
+
+	color: #fff;
+
+	border: 5px solid #567;
+}
